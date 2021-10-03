@@ -43,3 +43,9 @@
 ```
     hostname --help
 ```
+
+### free -m
+    display the system memory (ram) status and usage.
+    
+### top
+    display the cpu usage (type q for exit).
